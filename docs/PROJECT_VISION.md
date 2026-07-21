@@ -1,11 +1,18 @@
+# Project Vision
+
 ## Project Name
+
 **Automated Data Cleaning and Validation System**
+
+---
 
 ## Project Overview
 
 The Automated Data Cleaning and Validation System is a production-ready backend application that automates the process of assessing, cleaning, validating, and improving the quality of structured datasets.
 
 The system accepts datasets from multiple sources, performs data profiling, applies configurable cleaning techniques, validates data integrity, detects anomalies, and generates comprehensive reports for users.
+
+---
 
 ## Problem Statement
 
@@ -22,6 +29,8 @@ Cleaning these datasets manually requires significant time and effort and often 
 
 Our goal is to automate this entire workflow while maintaining transparency through detailed reports.
 
+---
+
 ## Objectives
 
 The project aims to:
@@ -33,6 +42,8 @@ The project aims to:
 - Detect statistical anomalies
 - Generate human-readable reports
 - Build a scalable and modular backend system
+
+---
 
 ## Scope
 
@@ -56,6 +67,8 @@ The project aims to:
 - Cloud deployment
 - Large-scale big data processing
 
+---
+
 ## Target Users
 
 This system is designed for:
@@ -65,6 +78,8 @@ This system is designed for:
 - AI Engineers
 - Business Analysts
 - Students working with datasets
+
+---
 
 ## Expected Deliverables
 
@@ -76,6 +91,8 @@ By the end of the project, the system will provide:
 - Cleaning logs
 - Anomaly reports
 - Automated processing pipeline
+
+---
 
 ## Success Criteria
 
